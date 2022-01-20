@@ -1,0 +1,11 @@
+/* External css */
+h1{
+    color: seagreen;
+}
+small{
+    display: block;
+    /* diplay block korla alada line paragraph ahse */
+}
+h3{
+    display: inline;
+}
